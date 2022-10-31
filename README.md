@@ -15,7 +15,9 @@ This project is simple networked multiplayer Checkers game.
 Project is created with:
  * python:
  * pycharm:
+
  ## Features
+ 
  * Two human players will play.
  * Computer will decide the valid move.
  * Computer  detect and declare the winner.
