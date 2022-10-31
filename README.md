@@ -2,8 +2,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* Features(#features)
-* Setup(#Setup)
+* [Features](#features)
+* [Setup](#Setup)
 
 
 ## General info
@@ -17,7 +17,7 @@ Project is created with:
  * pycharm:
 
  ## Features
- 
+
  * Two human players will play.
  * Computer will decide the valid move.
  * Computer  detect and declare the winner.
