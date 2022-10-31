@@ -1,2 +1,2 @@
-pycharm==
-python==
+pycharm==2022.2.3
+python==2.7/ >3.5
