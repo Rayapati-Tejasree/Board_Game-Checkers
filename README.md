@@ -1,8 +1,10 @@
 # Board_Game-Checkers
 ## Table of contents
-* General info
-* Technologies
-* Setup
+* [General info](#general-info)
+* [Technologies](#technologies)
+* Features(#features)
+* Setup(#Setup)
+
 
 ## General info
 
